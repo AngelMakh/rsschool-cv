@@ -2,8 +2,13 @@
 ### Junior Front-end Developer
 
 ## **About me**
+Upcoming developing specialist in the field of computer science, student with large dreams about future. 
 
 ## **Skills**
+* multitask
+* assertive
+* fast learner
+* competitive
 
 ## **Code examples**
 JavaScript examples from CodeWars (*6 kyu*)
@@ -44,6 +49,10 @@ return i.length;
 ```
 ## **Experience**
 
+[Eco-sounds](https://angelmakh.github.io/eco-sounds/)
+Thanks to [Rolling Scopes Schools](https://rs.school/js-stage0/)
+
+Also I have basic c++ knowlenge.
 
 ## **Education**
 * 2019 - 2021 BSUIR Lyceum (Lyceum №1)
@@ -64,3 +73,6 @@ Faculty of Information Technologies and Control, major in Automated information 
 * Belarusian native
 
 ## **Contacts**
+Belarus, Minsk
+[inst](https://www.instagram.com/makhotkinaangelina/?utm_medium=copy_link)
+[github](https://github.com/AngelMakh)
